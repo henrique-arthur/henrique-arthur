@@ -12,7 +12,4 @@ Olá, meu nome é Arthur Henrique, atualmente atuo como Front-end developer na B
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henrique-arthur&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-arthur&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=henrique-arthur&icon=1&color=12)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
