@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Arthur Henrique, atualmente atuo como Front-end developer na Braip
+Tenho 23 anos, sou desenvolvedor Front-End, atualmente trabalho com as tecnologias VueJs, NuxtJs, NextJs, Javascript, HTML e CSS. Já trabalhei com Design Gráfico, Web Design e hoje atuo como programador front-end, meu foco é estar sempre em constante crescimento!
 
 
 ## 🌐 Socials:
